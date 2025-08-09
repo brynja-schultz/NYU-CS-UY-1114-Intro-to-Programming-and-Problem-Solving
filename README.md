@@ -1,45 +1,60 @@
-# NYU CS-UY 1114 — Intro to Programming and Problem Solving
+# Intro to Programming and Problem Solving (Python)
 
-This repository contains coursework from **NYU's CS-UY 1114 Intro to Programming and Problem Solving** course.
-The assignments focus on learning fundamental programming concepts, computational thinking, and problem decomposition using **Python**.
-
-**Tech Stack:** Python (with standard libraries)
+*New York University – Tandon School of Engineering*
 
 ## Course Context
 
-This course is the introductory programming class for computer science majors at NYU.
-It provided a foundation in problem-solving, algorithmic thinking, and core programming principles, which I later built upon in more advanced courses in algorithms, data structures, computer graphics, and artificial intelligence.
-It was also my first formal exposure to programming in Python, which helped me quickly adapt to other languages such as Java, C++, and JavaScript in subsequent coursework and projects.
+This repository contains my programming assignments from **Intro to Programming and Problem Solving** at NYU, **Fall 2021 semester**.
+The course introduced foundational computer science concepts through Python, focusing on algorithmic thinking, data manipulation, and structured problem-solving.
+Assignments progressed from basic syntax to object-oriented programming, with an emphasis on clarity, efficiency, and readability.
+
+**Tech Stack:** Python · Standard Libraries
+
+---
 
 ## Project Highlights
 
-* **Assignment 1** — Introduction to Python, control flow, and basic data handling.
-* **Assignment 2** — Lists, loops, and conditional problem-solving.
-* **Assignment 3** — Modular programming with functions and iteration.
-* **Assignment 4** — File handling and structured program design.
-* **Assignment 5** — Working with dictionaries, sets, and data relationships.
-* **Assignment 6** — Object-oriented programming and class design basics.
+* **Assignment 1 — Python Fundamentals** — Basic syntax, control flow, and data handling.
+* **Assignment 2 — Working with Lists and Loops** — Iteration, conditional logic, and data structures.
+* **Assignment 3 — Modular Programming** — Organizing code into reusable functions.
+* **Assignment 4 — File I/O** — Reading from and writing to external files.
+* **Assignment 5 — Dictionaries and Sets** — Managing key-value pairs and unique collections.
+* **Assignment 6 — Object-Oriented Programming** — Creating and using Python classes to model real-world scenarios.
+
+---
 
 ## Skills Developed
 
-* Writing, testing, and debugging Python programs
-* Applying control flow constructs (conditionals, loops) to solve problems
-* Structuring programs with functions for modularity and reuse
-* Reading from and writing to files in Python
-* Using core data structures like lists, sets, tuples, and dictionaries
-* Implementing basic object-oriented programming with classes and methods
-* Designing solutions through problem decomposition and logical structuring
+* Writing clean, readable Python code.
+* Applying fundamental programming constructs (loops, conditionals, functions).
+* Managing data using Python’s built-in data structures.
+* Performing file operations for persistent storage.
+* Designing and implementing classes and methods.
+* Breaking down problems into structured, logical steps.
+
+---
 
 ## How to Run
 
-These projects can be run in any Python 3 environment. Example:
+Run any assignment in Python 3:
 
 ```bash
-python assignment1/main.py
+python assignment1.py
 ```
+
+(Some assignments may require input files provided in the repo.)
+
+---
 
 ## What to Look For
 
-* Clean, readable, and well-documented Python code
-* Logical problem-solving approaches
-* Progressive development from basic scripts to object-oriented design
+* Clear, consistent code style following Python best practices.
+* Progressive mastery of increasingly complex programming topics.
+* Early application of modularity and reusability principles.
+
+---
+
+## Portfolio Note
+
+This project is part of my academic and professional coding portfolio.
+For more projects, visit my [GitHub profile](https://github.com/brynja-schultz).

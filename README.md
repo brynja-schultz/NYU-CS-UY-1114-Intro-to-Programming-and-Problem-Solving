@@ -34,26 +34,6 @@ Assignments progressed from basic syntax to object-oriented programming, with an
 
 ---
 
-## How to Run
-
-Run any assignment in Python 3:
-
-```bash
-python assignment1.py
-```
-
-(Some assignments may require input files provided in the repo.)
-
----
-
-## What to Look For
-
-* Clear, consistent code style following Python best practices.
-* Progressive mastery of increasingly complex programming topics.
-* Early application of modularity and reusability principles.
-
----
-
 ## Portfolio Note
 
 This project is part of my academic and professional coding portfolio.
